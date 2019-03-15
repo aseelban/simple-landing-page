@@ -1,0 +1,64 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+body {
+    overflow-x: hidden;
+
+}
+
+#intro {
+    background: url("../img/work/test.jpeg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+/* main start */
+main .container .fas {
+    color: #EBBA06;
+    font-size: 35px;
+} 
+
+main .container h2, h4 {
+    color:#4C4C4C;
+}
+
+.top-nav-collapse {
+    background-color: #24355C;
+  }
+  @media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+      background-color: #24355C;
+    }
+  }
+  @media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+      background-color: #24355C;
+    }
+  }
+
+  /* .wow {
+    visibility: hidden;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
